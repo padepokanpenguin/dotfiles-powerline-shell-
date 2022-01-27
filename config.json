@@ -1,0 +1,22 @@
+{
+  "segments": [
+	  "time",
+    "virtual_env",
+    "ssh",
+    "cwd",
+    "git",
+    "git_stash",
+    "jobs",
+    "svn",
+    "newline",
+    "root"
+  ],
+	"max_dir_size": 4,
+	"time": {
+		  "format": "%H:%M"
+	},
+  "theme": "gruvbox",
+	"vcs": {
+	    "show_symbol":  true
+  }
+}
